@@ -11,4 +11,4 @@ There are three primary questions I attempt to answer this project. The first tw
 - How often are these relevant data science subfields used together?
 - Which data science topics are most likely to remain relevant in the next five years?
 
-Both of the datasets I worked with can be found in this GitHub repository under the Datasets section. In part 1, I used the dataset "questions_2020.csv" and in part 2 I used the dataset "questions_201_2020.csv".
+Both of the datasets I worked with are located in this GitHub repository within the Datasets folder. In part 1, I examined "questions_2020.csv" and in part 2 I examined "questions_201_2020.csv".

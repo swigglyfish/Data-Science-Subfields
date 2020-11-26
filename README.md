@@ -1,4 +1,4 @@
-<h1 align="center">Most Popular Topics in Data Science</h1>
-
-<img src="Title Topics.png">
+<p align=center>
+  <img src="Photos/Title Topics.png" width=80%>
+</p>
 

@@ -1,3 +1,3 @@
 # Most Popular Topics in Data Science
 
-![](Photos/FotoJet.png)
+![](Photos/FotoJet.jpg)

@@ -2,7 +2,7 @@
   <img src="Photos/Title Topics.png" width=80%>
 </p>
 
-In this two-part project, I explore questions posted on the <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a> on Stack Exchange in order to examine the relevancy of different subfields. While I refer to all of the different categories under examination as subfields or topics, I examine all aspects of data science, including specializations, programming languages, libraries, software, etc. that are relevant to the field.
+In this two-part project, I explore questions posted on the <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a> in order to examine the relevancy of different subfields. While I refer to all of the different categories under examination as subfields or topics, I examine all aspects of data science, including specializations, programming languages, libraries, software, etc. that are relevant to the field.
 
 The primary objective of this project is to help students who are studying data science navigate the ever-changing field and determine which of these subfields they should study. Since data science is incredibly new field, it is constantly changing and thus difficult to ascertain which aspects of data science are going to be most useful for them to learn.
 

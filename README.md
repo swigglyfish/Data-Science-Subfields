@@ -1,3 +1,3 @@
-# Most Popular Topics in Data Science
+<h1 align="center">Most Popular Topics in Data Science</h1>
 
-![](Photos/FotoJet.jpg)
+<img align="center" src="Photos/FotoJet.jpg" width=75%>

@@ -1,3 +1,10 @@
+<p>
+  <h1 align=center>The Most Popular Topics in Data Science</h1>
+  <h2 align=center>According to Stack Exchange</h2>
+</p>
+<br>
+<br>
+<br>
 <p align=center>
   <img src="Photos/Title Topics.png" width=100%>
 </p>

@@ -1,11 +1,5 @@
-<h1 align=center>The Most Popular Topics in Data Science</h1>
-<h2 align=center>According to Stack Exchange</h2>
-</p>
-<br>
-<br>
-<br>
 <p align=center>
-  <img src="Photos/Title Topics.png" width=100%>
+  <img src="Photos/Title Topics Design.png" width=100%>
 </p>
 
 In this two-part project, I explore questions posted on the <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a> in order to examine the relevancy of different subfields. While I refer to all of the different categories under examination as subfields or topics, I examine all aspects of data science, including specializations, programming languages, libraries, software, etc. that are relevant to the field.

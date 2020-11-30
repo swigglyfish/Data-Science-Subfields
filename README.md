@@ -1,6 +1,6 @@
 <h1 align="center">Most Popular Topics in Data Science</h1>
 
-<a href="https://www.analyticsinsight.net/top-5-data-science-analytics-trends-2020/"><img src="Photos/DS Topics.jpg" width=100% height=30%></a>
+<a href="/"><img src="Photos/DS Topics.jpg" width=100%></a>
 
 In this two-part project, I explore questions posted on the <a href="https://datascience.stackexchange.com/">Data Science Stack Exchange</a> in order to examine the relevancy of different subfields. While I refer to all of the different categories under examination as subfields or topics, I examine all aspects of data science, including specializations, programming languages, libraries, software, etc. that are relevant to the field.
 
